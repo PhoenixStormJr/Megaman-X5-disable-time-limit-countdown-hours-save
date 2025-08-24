@@ -13,6 +13,10 @@ DATA 7: Black Zero opening, timer disabled, no bosses beaten
 
 DATA 8: Ultimate Armor Megaman X opening, timer disabled, no bosses beaten
 
+Download it here:
+
+https://raw.githubusercontent.com/PhoenixStormJr/Megaman-X5-disable-time-limit-countdown-hours-save/refs/heads/main/Mega%20Man%20X5%20(USA)_1.mcd
+
 I got the save file from this location on my linux Duckstation .appimage:
 
 
