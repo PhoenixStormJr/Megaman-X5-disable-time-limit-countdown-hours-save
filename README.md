@@ -7,7 +7,7 @@ Here's what the save file means:
 
 DATA 5: Normal Zero opening, timer disabled, no bosses beaten
 
-DATA 6: Normal Megaman X opening, timer disabled, no bosses beaten
+DATA 6: Normal Megaman X opening (Fourth Armor), timer disabled, no bosses beaten
 
 DATA 7: Black Zero opening, timer disabled, no bosses beaten
 
