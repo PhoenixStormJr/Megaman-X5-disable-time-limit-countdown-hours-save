@@ -19,6 +19,6 @@ https://raw.githubusercontent.com/PhoenixStormJr/Megaman-X5-disable-time-limit-c
 
 I got the save file from this location on my linux Duckstation .appimage:
 
-
+/home/deck/.local/share/duckstation/memcards/Mega Man X5 (USA)_1.mcd
 
 But if you're on Windows, I don't know where it stores the saves. But still, Duckstation will still work, if you find that save file, and replace it with this one, no matter what OS you're using.
