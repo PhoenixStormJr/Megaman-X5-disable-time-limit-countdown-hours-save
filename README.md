@@ -3,6 +3,8 @@ Megaman X5, this is a save file for Duckstation I created by manually playing th
 
 Zero is still available and alive in all 4 Data Slots. If you want him dead you can literally just not use this save data, ignore the timer, and let it expire.
 
+(Ignore DATA 1 that's just what I used to save my progress with this save file.)
+
 Here's what the save file means:
 
 DATA 5: Normal Zero opening, timer disabled, no bosses beaten
